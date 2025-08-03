@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta property="og:title" content="Income Statement Report">
+  <meta property="og:description" content="Click to view the detailed income statement on Google Sheets.">
+  <meta property="og:image" content="https://i.imgur.com/vPQWZy4.png">
+  <meta property="og:url" content="https://focus-report.vercel.app/income-statement">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta http-equiv="refresh" content="1;url=https://docs.google.com/spreadsheets/d/1DVK7WIW_kfT1jUgJoCotvXvhqJaQ49giaBPx4XJdmGI/edit?usp=sharing">
+  <title>Redirecting to Income Statement</title>
+</head>
+<body>
+  <p>Redirecting to the report...</p>
+</body>
+</html>
